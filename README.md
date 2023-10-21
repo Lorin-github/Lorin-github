@@ -15,14 +15,14 @@
     <a href="https://juejin.cn/user/3257207932075799"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/23473180/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_35578171/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/peoplezhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Lorin-github&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 <br>
 </div>
 
-## Lorin 洛林
+## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
 - 👋 Hi, I’m @Lorin-github
