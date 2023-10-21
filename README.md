@@ -19,7 +19,7 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Lorin-github&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-<br>
+<p><b>Technology has the power to make the world a better place</b></p>
 </div>
 
 ## Hi! Nice to meet you!
@@ -27,6 +27,6 @@
 <!-- 个人简介 -->
 - 👋 Hi, I’m @Lorin-github
 - 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
-- 🌱 I’m currently learning database, AI,chrome plug -in development.
+- 🌱 I’m currently learning database, AI,Chrome plug -in development.
 - 💞️ I’m looking to collaborate on article synchronization assistant.
 - 📫 How to reach me? Email: gmqiujun@gmai.com
